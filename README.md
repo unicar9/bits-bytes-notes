@@ -1,4 +1,4 @@
-# study-notes
+# bits-bytes-notes
 
 Quick notes about anything related to coding world that I learn on a daily basis.
 
