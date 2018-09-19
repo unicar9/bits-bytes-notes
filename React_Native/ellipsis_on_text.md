@@ -4,10 +4,12 @@ in `React Native` We can use the [`numberOfLines`](https://facebook.github.io/re
 This will truncate the text with an ellipsis after computing the text layout, including line wrapping, such that the total number of lines does not exceed this number.
 
 Before:
+
 ![alt text](./img/overhang.png "text too long")
 
 After:
-![alt text](./img/elipsis.png "text too long")
+
+![alt text](./img/ellipsis.png "text too long")
 
 
 Code:
