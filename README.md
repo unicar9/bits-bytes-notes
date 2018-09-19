@@ -11,6 +11,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 * [CSS](#css)
 * [React Native](#React_Native)
+* [Creative Coding](#Creative_Coding)
 
 ---
 
@@ -18,4 +19,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 * [:not selector tricks](/CSS/not-selector-tricks.md)
 
 # React Native
-* [React Native ellipsis on text component](/React_Native/ellipsis_on_text.md)
+* [React Native ellipsis on text component](/React_Native/ellipsis-on-text.md)
+
+# Creative Coding
+* [P5.js template](/Creative_Coding/p5js-template.md)
