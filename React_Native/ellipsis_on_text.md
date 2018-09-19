@@ -9,29 +9,27 @@ Before:
 
 After:
 
-![alt text](./img/ellipsis.png "text too long")
+![alt text](./img/ellipsis.png "text ellipsis")
 
 
 Code:
-```javaScript
-<Text numberOfLines={1}>long long long long text<Text>
+```React
+<Text numberOfLines={1}>neque porro quisquam est<Text>
 ```
 Will produce:
 ```
-long long long…
+Neque porro quis…
 ```
-Before 
-
 
 This prop is commonly used with `ellipsizeMode`.
 
 Use the [`ellipsizeMode`](https://facebook.github.io/react-native/docs/text.html#ellipsizemode) props to move the ellipsis to the head or middle. `tail` is the default value.
 
 Code:
-```javaScript
-<Text numberOfLines={1} ellipsizeMode='head'}>long long long long text<Text>
+```React
+<Text numberOfLines={1} ellipsizeMode='head'}>neque porro quisquam est<Text>
 ```
 Will produce:
 ```
-…long long text
+…porro quisquam est
 ```

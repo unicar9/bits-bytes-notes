@@ -10,8 +10,12 @@ Every note will consist of a short and concise explanation with a code snippet a
 # Categories
 
 * [CSS](#css)
+* [React Native](#React Native)
 
 ---
 
 # CSS
 [:not selector tricks](/CSS/not-selector-tricks.md)
+
+# React Native
+[React Native ellipsis on text component](/React_Native/ellipsis_on_text.md)
