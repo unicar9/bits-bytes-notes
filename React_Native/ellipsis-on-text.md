@@ -27,7 +27,7 @@ Use the [`ellipsizeMode`](https://facebook.github.io/react-native/docs/text.html
 
 Code:
 ```React
-<Text numberOfLines={1} ellipsizeMode='head'}>neque porro quisquam est<Text>
+<Text numberOfLines={1} ellipsizeMode='head'>neque porro quisquam est<Text>
 ```
 Will produce:
 ```
