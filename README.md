@@ -22,7 +22,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 * [:not selector tricks](/css/not-selector-tricks.md)
 
 ## React
-* [:not selector tricks](/react/not-selector-tricks.md)
+* [How to comment in React JSX](/react/comment-in-jsx.md)
 
 ## React Native
 * [React Native ellipsis on text component](/react-native/ellipsis-on-text.md)
