@@ -23,6 +23,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 ## React
 * [How to comment in React JSX](/react/comment-in-jsx.md)
+* [Initialising state based on props](/react/initialising-state-based-on-props.md)
 
 ## React Native
 * [React Native ellipsis on text component](/react-native/ellipsis-on-text.md)
