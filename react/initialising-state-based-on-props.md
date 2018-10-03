@@ -1,4 +1,4 @@
-Sometimes if you want to pass a part of parent component state to child component via props, and also use local state in child component to dynamically change this prop value. Which means, your local state needs to initialised by the parent prop value, however, if you just initialise the state value in the constructor, and when the parent prop value changes, it cannot be reflected in the local state.
+Sometimes if you want to pass a part of parent component state to child component via props, and also use local state in child component to change this prop value. Which means, your local state needs to initialised by the parent prop value, however, if you just initialise the state value in the constructor, and when the parent prop value changes, it cannot be reflected in the local state.
 
 Code:
 
