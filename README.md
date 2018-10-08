@@ -15,6 +15,7 @@ Every note will consist of a short and concise explanation with a code snippet a
     - [React](#react)
     - [React Native](#react-native)
     - [Creative Coding](#creative-coding)
+    - [Git](#git)
 
 ---
 
@@ -31,3 +32,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 ## Creative Coding
 * [P5.js template](/creative-coding/p5js-template.md)
+  
+
+## Git
+* [Rename git branch locally or remotely](/git/rename-git-branch.md)
