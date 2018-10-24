@@ -30,6 +30,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 * [React Native ellipsis on text component](/react-native/ellipsis-on-text.md)
 * [Disable the Yellow Box in React Native](/react-native/disable-yellow-box.md)
 * [Draw a horizontal divider in React Native](/react-native/horizontal-divider.md)
+* [Get screen height and width](/react-native/screen-height-width.md)
 
 ## Creative Coding
 * [P5.js template](/creative-coding/p5js-template.md)
