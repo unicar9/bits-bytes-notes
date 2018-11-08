@@ -32,6 +32,8 @@ Every note will consist of a short and concise explanation with a code snippet a
 * [Draw a horizontal divider in React Native](/react-native/horizontal-divider.md)
 * [Get screen height and width](/react-native/screen-height-width.md)
 * [Horizontally scrollable cards/content snap to center](/react-native/horizontal-scrollview-snapping.md)
+* [Custom styling unordered list in React Native](/react-native/custom-style-bullet-list.md)
+* [Fixed header using relative position React Native](/react-native/relative-position-header.md)
 
 ## Creative Coding
 * [P5.js template](/creative-coding/p5js-template.md)
