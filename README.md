@@ -37,6 +37,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 ## Creative Coding
 * [P5.js template](/creative-coding/p5js-template.md)
+* [three.js template](/creative-coding/threejs-template.md)
   
 
 ## Git
