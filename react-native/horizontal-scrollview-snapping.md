@@ -3,7 +3,7 @@ Add the following props in your ScrollView component when you want to create a s
 Code:
 ```React
 <ScrollView 
-    horizontal= {true}
+    horizontal={true}
     decelerationRate={0}
     snapToInterval={200} //your element width
     snapToAlignment={"center"}
