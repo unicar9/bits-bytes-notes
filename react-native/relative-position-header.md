@@ -1,4 +1,4 @@
-With React Native column flex layout in nature, you can simply react a fixed header container by giving it a `relative` position.
+With React Native column flex layout in nature, you can simply create a fixed header by giving it a `relative` position.
 
 Code:
 ```React
