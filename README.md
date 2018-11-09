@@ -34,6 +34,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 * [Horizontally scrollable cards/content snap to center](/react-native/horizontal-scrollview-snapping.md)
 * [Custom styling unordered list in React Native](/react-native/custom-style-bullet-list.md)
 * [Fixed header using relative position React Native](/react-native/relative-position-header.md)
+* [Detect scroll to bottom of ScrollView/FlatList/SectionList component](/react-native/scroll-to-bottom.md)
 
 ## Creative Coding
 * [P5.js template](/creative-coding/p5js-template.md)
