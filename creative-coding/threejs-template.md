@@ -1,4 +1,4 @@
-Below is a skeleton of a typical three.js sketch
+Below is a skeleton of a typical three.js demo
 
 in js file:
 ```JavaScript
