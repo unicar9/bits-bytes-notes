@@ -16,6 +16,7 @@ Every note will consist of a short and concise explanation with a code snippet a
     - [React Native](#react-native)
     - [Creative Coding](#creative-coding)
     - [Git](#git)
+    - [Functional JavaScript](#functional-javascript)
 
 ---
 
@@ -44,3 +45,6 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 ## Git
 * [Rename git branch locally or remotely](/git/rename-git-branch.md)
+
+## Functional JavaScript
+* [Map an array of primitive type values into an array of objects](/functional-javascript/map-array-into-array-of-objects.md)
