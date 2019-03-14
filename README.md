@@ -11,12 +11,13 @@ Every note will consist of a short and concise explanation with a code snippet a
 # Categories
 - [bits-bytes-notes](#bits-bytes-notes)
 - [Categories](#categories)
-    - [CSS](#css)
-    - [React](#react)
-    - [React Native](#react-native)
-    - [Creative Coding](#creative-coding)
-    - [Git](#git)
-    - [Functional JavaScript](#functional-javascript)
+  - [CSS](#css)
+  - [React](#react)
+  - [React Native](#react-native)
+  - [Creative Coding](#creative-coding)
+  - [Git](#git)
+  - [Functional JavaScript](#functional-javascript)
+  - [Uncategorised](#uncategorised)
 
 ---
 
@@ -49,3 +50,6 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 ## Functional JavaScript
 * [Map an array of primitive type values into an array of objects](/functional-javascript/map-array-into-array-of-objects.md)
+
+## Uncategorised
+* [Debugger steps](/uncategorised/debugger-steps.md)
