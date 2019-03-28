@@ -23,6 +23,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 ## CSS
 * [:not selector tricks](/css/not-selector-tricks.md)
+* [How to fade out an element](/css/fade-out-element.md)
 
 ## React
 * [How to comment in React JSX](/react/comment-in-jsx.md)
