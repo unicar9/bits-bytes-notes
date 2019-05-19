@@ -1,4 +1,4 @@
-For <div> tag to pick up keyboard events, simply add `tabIndex = '0'` so it can focus or `tabIndex = '-1'` to prevent it from getting the dotted border when focused.
+For `<div>` tag to pick up keyboard events, simply add `tabIndex = '0'` so it can focus or `tabIndex = '-1'` to prevent it from getting the dotted border when focused.
 
 Also note that, the `e.keyCode` is always 0, but `e.charCode` has the correct value.
 
