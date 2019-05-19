@@ -30,6 +30,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 * [Initialising state based on props](/react/initialising-state-based-on-props.md)
 * [Map an array into 2 column grid layout](/react/map-array-two-column.md)
 * [Listen for window resize](/react/listen-window-resize.md)
+* [Listen for keypress in React](/react/listen-keypress.md)
 
 ## React Native
 * [React Native ellipsis on text component](/react-native/ellipsis-on-text.md)
