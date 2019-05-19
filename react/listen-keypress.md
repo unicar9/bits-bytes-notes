@@ -6,7 +6,7 @@ Code:
 ```React
 
 <div tabIndex="0" onKeyPress={(e) => console.log(e.charCode)>
-    this div can now have focus and recieve keyboard events
+    this div can now have focus and receive keyboard events
 </div>
 
 ```
