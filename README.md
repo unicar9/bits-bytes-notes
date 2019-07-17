@@ -24,9 +24,9 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 ## CSS
 
-- [:not selector tricks](/css/not-selector-tricks.md)
-- [How to fade out an element](/css/fade-out-element.md)
-- [How to wrap words by comma not by space](/css/wrap-words-by-comma.md)
+- [:not selector tricks](/CSS/not-selector-tricks.md)
+- [How to fade out an element](/CSS/fade-out-element.md)
+- [How to wrap words by comma not by space](/CSS/wrap-words-by-comma.md)
 
 ## React
 
