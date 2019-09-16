@@ -18,6 +18,7 @@ Every note will consist of a short and concise explanation with a code snippet a
   - [Creative Coding](#creative-coding)
   - [Git](#git)
   - [Functional JavaScript](#functional-javascript)
+  - [Bash](#bash)
   - [Uncategorised](#uncategorised)
 
 ---
@@ -60,6 +61,10 @@ Every note will consist of a short and concise explanation with a code snippet a
 
 - [Map an array of primitive type values into an array of objects](/functional-javascript/map-array-into-array-of-objects.md)
 - [Map an object into array of object using both its keys and values](/functional-javascript/map-object-into-array-with-keys-and-values.md)
+
+## Bash
+
+- [Create multiple files with sequential numbers](/bash/create-sequential-files.md)
 
 ## Uncategorised
 
