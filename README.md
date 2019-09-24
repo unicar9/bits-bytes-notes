@@ -36,6 +36,7 @@ Every note will consist of a short and concise explanation with a code snippet a
 - [Map an array into 2 column grid layout](/react/map-array-two-column.md)
 - [Listen for window resize](/react/listen-window-resize.md)
 - [Listen for keypress in React](/react/listen-keypress.md)
+- [Fix warning: A component is changing an uncontrolled input of type text to be controlled](/react/component-changing-uncontrolled-to-be-controlled.md)
 
 ## React Native
 
